@@ -1,5 +1,5 @@
 /* Sample Script: V.I.P [MYSQL & ZCMD]
--» Release Date:       		06.02.2018
+-» Release Date:       		06.02.2018 (Unreleased Build)
 -» Description:        		V.I.P Script specially designed for TDM servers.
 -» Saving System Used: 		MYSQL (by BlueG)
 -» Command Processor Used:  	ZCMD (by Zeex)
