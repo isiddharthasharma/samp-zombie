@@ -1,10 +1,11 @@
 /* Sample Script: V.I.P [Y_INI & ZCMD]
--» Copyright 			© 2012-2014
+-» Copyright © 2012-2014 Siddharth
+-» Author:      	   		Siddharth
 -» Release Date:       		06.02.2018
 -» Description:        		V.I.P Script specially designed for TDM/DM servers.
 -» Saving System Used: 		Y_INI (by Y_Less)
--» Command Processor Used:      ZCMD (by Zeex)
--» Version:                     0.9(Stable)
+-» Command Processor Used:  ZCMD (by Zeex)
+-» Version:                 1.0(Stable)
 */
 
 /*============================================================================*/
@@ -273,7 +274,7 @@ public OnPlayerText(playerid, text[])
 	    new vname[24], string[128]; GetPlayerName(playerid, vname,sizeof(vname));
 		format(string,sizeof(string), ""VIPCHATTAG" %s(%d): %s", vname, playerid, text[1]);
 		SendTextToVIP(-1, string);
-		savelog("VIPChat",string);
+		savelog("chat",string);
 	}
 	return 0;
 }
@@ -1276,7 +1277,7 @@ stock SendTextToAdmin(playerid, vipcmd[])
 			  	GetPlayerName(playerid, vipname, sizeof(vipname));
 			  	format(string, sizeof(string), "{656565}RCON-MSG: %s(%d) has used the command '/%s'",vipname, playerid, vipcmd);
 				SendClientMessage(playerid, -1, string);
-				savelog("vipcommandlog",string);
+				savelog("command",string);
 			}
 		}
 	}
