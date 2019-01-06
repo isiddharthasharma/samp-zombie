@@ -1,11 +1,9 @@
 /* Sample Script: V.I.P [Y_INI & ZCMD]
--» Copyright © 2012-2014 Siddharth
--» Author:      	   		Siddharth
 -» Release Date:       		06.02.2018
 -» Description:        		V.I.P Script specially designed for TDM/DM servers.
 -» Saving System Used: 		Y_INI (by Y_Less)
--» Command Processor Used:  ZCMD (by Zeex)
--» Version:                 1.0(Stable)
+-» Command Processor Used:  	ZCMD (by Zeex)
+-» Version:                 	1.0(Stable)
 */
 
 /*============================================================================*/
