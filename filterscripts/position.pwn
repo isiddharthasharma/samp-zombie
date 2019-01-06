@@ -1,9 +1,9 @@
 /* Script: Position - Save, Load & Delete[Y_INI][ZCMD]
--» Release Date:       		  09.03.2018
--» Description:             Save/load/delete position of player with 1 command
--» Saving System Used: 		  Y_INI (by Y_Less)
--» Command Processor Used:  ZCMD (by Zeex)
--» Version:                 1.0(Stable)
+-» Release Date:       		09.03.2018(Unreleased - Topic Removed)
+-» Description:             	Save/load/delete position of player with 1 command
+-» Saving System Used: 		Y_INI (by Y_Less)
+-» Command Processor Used:  	ZCMD (by Zeex)
+-» Version:                 	1.0(Stable)
 */
 
 /*============================================================================*/
