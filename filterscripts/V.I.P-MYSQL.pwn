@@ -1,11 +1,10 @@
 /* Sample Script: V.I.P [Y_INI & ZCMD]
--» Copyright © 2012-2014 Siddharth
--» Author:      	   		Siddharth
+-» Copyright 			© 2012-2014
 -» Release Date:       		06.02.2018
 -» Description:        		V.I.P Script specially designed for TDM servers.
 -» Saving System Used: 		MYSQL (by BlueG)
--» Command Processor Used:  ZCMD (by Zeex)
--» Version:                 1.0(Stable)
+-» Command Processor Used:  	ZCMD (by Zeex)
+-» Version:                 	0.9(Stable)
 */
 
 /*============================================================================*/
@@ -18,7 +17,7 @@
 #include <foreach>
 
 #define COLOR_VIP  			(0xF6BB0AA)
-#define COLOR_DGRAY 		(0x808080FF)
+#define COLOR_DGRAY 			(0x808080FF)
 /*============================================================================*/
 /*CONFIGURATION*/
 
@@ -51,26 +50,26 @@
 //Edit this if you want to change the label above the player or disable showing above their head
 #define VIPHEADSHOW
 #define	VIPHEADTAG       	"Very Important Player"
-#define COLOR_VIPHEADTAG    (0xFF0000AA) // Red Color
+#define COLOR_VIPHEADTAG    	(0xFF0000AA) // Red Color
 
 //Edit this if you want normal players to have less health and armour than VIP(s).
-#define NORMALPLAYERHEALTH  100
-#define NORMALPLAYERARMOUR  10
+#define NORMALPLAYERHEALTH  		100
+#define NORMALPLAYERARMOUR  		10
 
 //NOTE: These will also apply where VIP use /healme and /armourme commands!
-#define LVL1HEALTH  		100
+#define LVL1HEALTH  			100
 #define LVLL1ARMOUR			40
 
 #define LVL3HEALTH 			100
-#define LVLL2ARMOUR 		50
+#define LVLL2ARMOUR 			50
 
 #define LVL3HEALTH 			100
-#define LVLL3ARMOUR 		100
+#define LVLL3ARMOUR 			100
 
 //Edit this to give VIP players additional "x" amount of ammo to all weapons.
-#define LVL1SPAWNAMMO       200
-#define LVL2SPAWNAMMO       400
-#define LVL3SPAWNAMMO       600
+#define LVL1SPAWNAMMO     		200
+#define LVL2SPAWNAMMO     		400
+#define LVL3SPAWNAMMO     		600
 
 //Edit this if you want to change the ERROR messages for those who try to access VIP commands.
 #define VIPERROR 			"{FFFFFF}[{B3343A}ERROR{FFFFFF}]: You must buy VIP package from forum to use this command!"
