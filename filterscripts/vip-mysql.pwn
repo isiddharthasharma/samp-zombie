@@ -1,5 +1,4 @@
 /* Sample Script: V.I.P [Y_INI & ZCMD]
--» Copyright 			© 2012-2014
 -» Release Date:       		06.02.2018
 -» Description:        		V.I.P Script specially designed for TDM servers.
 -» Saving System Used: 		MYSQL (by BlueG)
