@@ -1,5 +1,13 @@
-#define FILTERSCRIPT
+/* Script: Wallet [Y_INI & ZCMD]
+-» Release Date:       		26.09.2018
+-» Description:        		Wallet Script specially designed for RP/RPG/MMO servers.
+-» Saving System Used: 		Y_INI (by Y_Less)
+-» Command Processor Used:  	ZCMD (by Zeex)
+-» Version:                 	0.2 (Beta)
+*/
 
+/*============================================================================*/
+#define FILTERSCRIPT
 #include <a_samp>
 #include <zcmd>
 #include <sscanf>
