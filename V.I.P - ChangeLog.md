@@ -1,2 +1,0 @@
-# SAMP
-SA:MP Releases
