@@ -1,6 +1,7 @@
 /* Zombie A.I
 Code Name: ZAIv01CA
 Base: ColAndreas
+NPC Engine: FCNPC
 Version: 0.1
 */
 #include <a_samp>
