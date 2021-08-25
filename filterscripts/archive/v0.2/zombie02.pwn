@@ -4,7 +4,7 @@ Base: MapAndreas
 NPC Engine: FCNPC
 Version: 0.2
 */
-a
+
 #include <a_samp>
 #include <fcnpc>
 #include <YSI\y_timers>
