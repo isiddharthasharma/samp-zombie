@@ -1,3 +1,8 @@
+*/ Zombie A.I
+Code Name: ZAIv01CA
+Base: ColAndreas
+Version: 0.1
+/*
 #include <a_samp>
 #include <fcnpc>
 #include <YSI\y_timers>
