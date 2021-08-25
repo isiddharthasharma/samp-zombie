@@ -1,4 +1,8 @@
-v0.3
+## Zombie A.I System
+Zombie NPC system which will follow player and kill it.
+
+### Features
+#### v0.3
 - Structure improvement 
 - Introduction of Dini for configuration save. ~ I'll provide INI, MYSQL or SQLITE in future versions.
 - You'll find some groundwork done in the v0.3 script of YINI.
@@ -11,14 +15,14 @@ v0.3
 - Test Commands
    - /zcmds /zget /zspawn /zgoto /zconfig
 
-v0.2
+#### v0.2
 * Script improvement.
 * MapAndreas support.
 * Bug fixed ~ "Zombie stop their heads when the player stops on near to them".
 * New zombie nametag and health bar - https://imgur.com/umiikKA
 * Updated zombie nametag and health bar - https://imgur.com/umiikKA
 
-v0.1
+#### v0.1
 * Custom damage to zombies from players (configurable).
 * Custom damage from zombies to players (configurable).
 * Zombies have melee weapons (shovel/knife/katana - custom damage).
