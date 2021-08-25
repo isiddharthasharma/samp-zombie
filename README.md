@@ -20,7 +20,7 @@ Zombie NPC system which will follow player and kill it.
 * MapAndreas support.
 * Bug fixed ~ "Zombie stop their heads when the player stops on near to them".
 * New zombie nametag and health bar - https://i.imgur.com/umiikKA.jpeg
-* Updated zombie nametag and health bar - https://i.imgur.com/umiikKA.png
+* Updated zombie nametag and health bar - https://i.imgur.com/umiikKA.jpeg
 
 #### v0.1
 * Custom damage to zombies from players (configurable).
