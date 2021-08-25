@@ -1,3 +1,11 @@
+/* Zombie A.I
+Code Name: ZAIv02MA
+Base: MapAndreas
+NPC Engine: FCNPC
+Version: 0.3
+Note: This is experimental script and does not represent final quality.
+*/
+
 #include <a_samp>
 #include <zcmd>
 #include <fcnpc2>
