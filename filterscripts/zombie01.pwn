@@ -4,6 +4,7 @@ Base: ColAndreas
 NPC Engine: FCNPC
 Version: 0.1
 */
+
 #include <a_samp>
 #include <fcnpc>
 #include <YSI\y_timers>
