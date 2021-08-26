@@ -11,7 +11,8 @@ Zombie NPC system which will follow player and kill it.
    - Zombies will fall when they're being shot by a shotgun, spaz12, country rifle, sniper. (bug - they can move while being stunned)
    - If you disable the Headshot system then you'll see "Severe Damage" on the screen instead of headshot and also the zombie will fall due to the high impact of the gun bullet.
 - Fixed minor bugs
-   - respawned zombies don't show the full health bar.death window double-counted deaths.
+   - Respawned zombies don't show the full health bar.
+   - Death window double-counted deaths.
 - Test Commands
    - /zcmds /zget /zspawn /zgoto /zconfig
 
