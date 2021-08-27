@@ -36,5 +36,5 @@ Zombie NPC system which will follow player and kill it.
 * Zombies get a headshot from all weapons (only zombies).
 
 ### Download
-<a href = "https://github.com/siddharthamks/Zombie/releases">Click Here</a> for A.I
-[https://github.com/ziggi/FCNPC/releases](Click Here) for FCNPC Engine
+- <a href = "https://github.com/siddharthamks/Zombie/releases">Click Here</a> for A.I
+- [https://github.com/ziggi/FCNPC/releases](Click Here) for FCNPC Engine
